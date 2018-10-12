@@ -28,7 +28,10 @@
 } */
 .Toolbar{
     height: 54px;
-    background-color: #7eb243;
+    width: 1279px;
+    /* background-color: #7eb243; */
+    background-image: linear-gradient(to right, #585757, #f4f4ff);
+    border: 1px solid #eeeeee;
     position: absolute;
     top: 0;
     right: 0;
